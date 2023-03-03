@@ -1,0 +1,730 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297574</millis>
+  <sequence>0</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 6, 12, 4, 7, 3, 3, 87, 94, 2, 16, 2, 48]</message>
+</record>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297623</millis>
+  <sequence>1</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 6, 12, 4, 7, 3, 3, 87, 94, 2, 16, 2, 48]</message>
+</record>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297625</millis>
+  <sequence>2</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 6, 4, 12, 7, 3, 3, 87, 94, 2, 16, 2, 48]</message>
+</record>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297627</millis>
+  <sequence>3</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 6, 4, 12, 7, 3, 3, 87, 94, 2, 16, 2, 48]</message>
+</record>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297628</millis>
+  <sequence>4</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 6, 4, 7, 12, 3, 3, 87, 94, 2, 16, 2, 48]</message>
+</record>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297632</millis>
+  <sequence>5</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 6, 4, 7, 12, 3, 3, 87, 94, 2, 16, 2, 48]</message>
+</record>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297636</millis>
+  <sequence>6</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 6, 4, 7, 3, 12, 3, 87, 94, 2, 16, 2, 48]</message>
+</record>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297638</millis>
+  <sequence>7</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 6, 4, 7, 3, 12, 3, 87, 94, 2, 16, 2, 48]</message>
+</record>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297640</millis>
+  <sequence>8</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 6, 4, 7, 3, 3, 12, 87, 94, 2, 16, 2, 48]</message>
+</record>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297644</millis>
+  <sequence>9</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 6, 4, 7, 3, 3, 12, 87, 94, 2, 16, 2, 48]</message>
+</record>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297648</millis>
+  <sequence>10</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 6, 4, 7, 3, 3, 12, 87, 2, 94, 16, 2, 48]</message>
+</record>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297650</millis>
+  <sequence>11</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 6, 4, 7, 3, 3, 12, 87, 2, 94, 16, 2, 48]</message>
+</record>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297652</millis>
+  <sequence>12</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 6, 4, 7, 3, 3, 12, 87, 2, 16, 94, 2, 48]</message>
+</record>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297653</millis>
+  <sequence>13</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 6, 4, 7, 3, 3, 12, 87, 2, 16, 94, 2, 48]</message>
+</record>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297655</millis>
+  <sequence>14</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 6, 4, 7, 3, 3, 12, 87, 2, 16, 2, 94, 48]</message>
+</record>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297656</millis>
+  <sequence>15</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 6, 4, 7, 3, 3, 12, 87, 2, 16, 2, 94, 48]</message>
+</record>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297658</millis>
+  <sequence>16</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 6, 4, 7, 3, 3, 12, 87, 2, 16, 2, 48, 94]</message>
+</record>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297659</millis>
+  <sequence>17</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 6, 4, 7, 3, 3, 12, 87, 2, 16, 2, 48, 94]</message>
+</record>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297660</millis>
+  <sequence>18</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 4, 6, 7, 3, 3, 12, 87, 2, 16, 2, 48, 94]</message>
+</record>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297661</millis>
+  <sequence>19</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 4, 6, 7, 3, 3, 12, 87, 2, 16, 2, 48, 94]</message>
+</record>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297665</millis>
+  <sequence>20</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 4, 6, 3, 7, 3, 12, 87, 2, 16, 2, 48, 94]</message>
+</record>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297666</millis>
+  <sequence>21</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 4, 6, 3, 7, 3, 12, 87, 2, 16, 2, 48, 94]</message>
+</record>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297667</millis>
+  <sequence>22</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 4, 6, 3, 3, 7, 12, 87, 2, 16, 2, 48, 94]</message>
+</record>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297667</millis>
+  <sequence>23</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 4, 6, 3, 3, 7, 12, 87, 2, 16, 2, 48, 94]</message>
+</record>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297668</millis>
+  <sequence>24</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 4, 6, 3, 3, 7, 12, 2, 87, 16, 2, 48, 94]</message>
+</record>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297669</millis>
+  <sequence>25</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 4, 6, 3, 3, 7, 12, 2, 87, 16, 2, 48, 94]</message>
+</record>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297671</millis>
+  <sequence>26</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 4, 6, 3, 3, 7, 12, 2, 16, 87, 2, 48, 94]</message>
+</record>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297672</millis>
+  <sequence>27</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 4, 6, 3, 3, 7, 12, 2, 16, 87, 2, 48, 94]</message>
+</record>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297674</millis>
+  <sequence>28</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 4, 6, 3, 3, 7, 12, 2, 16, 2, 87, 48, 94]</message>
+</record>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297675</millis>
+  <sequence>29</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 4, 6, 3, 3, 7, 12, 2, 16, 2, 87, 48, 94]</message>
+</record>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297676</millis>
+  <sequence>30</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 4, 6, 3, 3, 7, 12, 2, 16, 2, 48, 87, 94]</message>
+</record>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297677</millis>
+  <sequence>31</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 4, 6, 3, 3, 7, 12, 2, 16, 2, 48, 87, 94]</message>
+</record>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297678</millis>
+  <sequence>32</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 4, 3, 6, 3, 7, 12, 2, 16, 2, 48, 87, 94]</message>
+</record>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297678</millis>
+  <sequence>33</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 4, 3, 6, 3, 7, 12, 2, 16, 2, 48, 87, 94]</message>
+</record>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297680</millis>
+  <sequence>34</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 4, 3, 3, 6, 7, 12, 2, 16, 2, 48, 87, 94]</message>
+</record>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297681</millis>
+  <sequence>35</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 4, 3, 3, 6, 7, 12, 2, 16, 2, 48, 87, 94]</message>
+</record>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297681</millis>
+  <sequence>36</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 4, 3, 3, 6, 7, 2, 12, 16, 2, 48, 87, 94]</message>
+</record>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297683</millis>
+  <sequence>37</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 4, 3, 3, 6, 7, 2, 12, 16, 2, 48, 87, 94]</message>
+</record>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297684</millis>
+  <sequence>38</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 4, 3, 3, 6, 7, 2, 12, 2, 16, 48, 87, 94]</message>
+</record>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297685</millis>
+  <sequence>39</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 4, 3, 3, 6, 7, 2, 12, 2, 16, 48, 87, 94]</message>
+</record>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297685</millis>
+  <sequence>40</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 3, 4, 3, 6, 7, 2, 12, 2, 16, 48, 87, 94]</message>
+</record>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297686</millis>
+  <sequence>41</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 3, 4, 3, 6, 7, 2, 12, 2, 16, 48, 87, 94]</message>
+</record>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297687</millis>
+  <sequence>42</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 3, 3, 4, 6, 7, 2, 12, 2, 16, 48, 87, 94]</message>
+</record>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297689</millis>
+  <sequence>43</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 3, 3, 4, 6, 7, 2, 12, 2, 16, 48, 87, 94]</message>
+</record>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297691</millis>
+  <sequence>44</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 3, 3, 4, 6, 2, 7, 12, 2, 16, 48, 87, 94]</message>
+</record>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297692</millis>
+  <sequence>45</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 3, 3, 4, 6, 2, 7, 12, 2, 16, 48, 87, 94]</message>
+</record>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297694</millis>
+  <sequence>46</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 3, 3, 4, 6, 2, 7, 2, 12, 16, 48, 87, 94]</message>
+</record>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297695</millis>
+  <sequence>47</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 3, 3, 4, 6, 2, 7, 2, 12, 16, 48, 87, 94]</message>
+</record>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297695</millis>
+  <sequence>48</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 3, 3, 4, 2, 6, 7, 2, 12, 16, 48, 87, 94]</message>
+</record>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297696</millis>
+  <sequence>49</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 3, 3, 4, 2, 6, 7, 2, 12, 16, 48, 87, 94]</message>
+</record>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297696</millis>
+  <sequence>50</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 3, 3, 4, 2, 6, 2, 7, 12, 16, 48, 87, 94]</message>
+</record>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297697</millis>
+  <sequence>51</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 3, 3, 4, 2, 6, 2, 7, 12, 16, 48, 87, 94]</message>
+</record>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297698</millis>
+  <sequence>52</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 3, 3, 2, 4, 6, 2, 7, 12, 16, 48, 87, 94]</message>
+</record>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297698</millis>
+  <sequence>53</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 3, 3, 2, 4, 6, 2, 7, 12, 16, 48, 87, 94]</message>
+</record>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297699</millis>
+  <sequence>54</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 3, 3, 2, 4, 2, 6, 7, 12, 16, 48, 87, 94]</message>
+</record>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297700</millis>
+  <sequence>55</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 3, 3, 2, 4, 2, 6, 7, 12, 16, 48, 87, 94]</message>
+</record>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297700</millis>
+  <sequence>56</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 3, 2, 3, 4, 2, 6, 7, 12, 16, 48, 87, 94]</message>
+</record>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297701</millis>
+  <sequence>57</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 3, 2, 3, 4, 2, 6, 7, 12, 16, 48, 87, 94]</message>
+</record>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297701</millis>
+  <sequence>58</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 3, 2, 3, 2, 4, 6, 7, 12, 16, 48, 87, 94]</message>
+</record>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297702</millis>
+  <sequence>59</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 3, 2, 3, 2, 4, 6, 7, 12, 16, 48, 87, 94]</message>
+</record>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297703</millis>
+  <sequence>60</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 2, 3, 3, 2, 4, 6, 7, 12, 16, 48, 87, 94]</message>
+</record>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297703</millis>
+  <sequence>61</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 2, 3, 3, 2, 4, 6, 7, 12, 16, 48, 87, 94]</message>
+</record>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297705</millis>
+  <sequence>62</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 2, 3, 2, 3, 4, 6, 7, 12, 16, 48, 87, 94]</message>
+</record>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297705</millis>
+  <sequence>63</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 2, 3, 2, 3, 4, 6, 7, 12, 16, 48, 87, 94]</message>
+</record>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297707</millis>
+  <sequence>64</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 2, 2, 3, 3, 4, 6, 7, 12, 16, 48, 87, 94]</message>
+</record>
+<record>
+  <date>2023-03-03T15:41:37</date>
+  <millis>1677847297707</millis>
+  <sequence>65</sequence>
+  <logger>Homework.HW_02.Task1</logger>
+  <level>INFO</level>
+  <class>Homework.HW_02.Task1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 2, 2, 3, 3, 4, 6, 7, 12, 16, 48, 87, 94]</message>
+</record>
+</log>
