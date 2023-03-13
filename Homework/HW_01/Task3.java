@@ -31,7 +31,7 @@ public class Task3 {
                 System.out.printf("%d * %d = %d", number_1, number_2, result);
                 break;
             default:
-                System.out.println("Что - то ввели неправильное!)");
+                System.out.println("Неверно!)");
                 break;
         }
     }
